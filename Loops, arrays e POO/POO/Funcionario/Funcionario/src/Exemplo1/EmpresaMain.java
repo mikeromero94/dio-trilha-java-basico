@@ -1,3 +1,4 @@
+package Exemplo1;
 public class EmpresaMain {
     
     public static void main(String[] args) {
